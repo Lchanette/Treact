@@ -205,7 +205,7 @@ nav {
 }
 
 .menu--open .modal {
-    visibility: visible;
+    visibility: hidden;
     opacity: 1;
     transform: translateX(0);
 }
@@ -1411,6 +1411,7 @@ MOBILE RESPONSIVENESS ↓
         line-height: 1.5;
     }
 }
+
 
 
 
