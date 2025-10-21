@@ -15,6 +15,7 @@ body {
 }
 
 .menu--open {
+    max-height: 100vh;
     overflow: hidden;
 }
 .row {
@@ -1410,5 +1411,6 @@ MOBILE RESPONSIVENESS ↓
         line-height: 1.5;
     }
 }
+
 
 
